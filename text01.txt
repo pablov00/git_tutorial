@@ -1,0 +1,2 @@
+Esta es una prueba de GIT.
+Ahora se ha modificado el archivo
